@@ -13,7 +13,8 @@
     "obs": "",
     "autorizaPublico": true,
     "aceiteTermos": true,
-    "status": "pendente",
-    "publicado": false
+    "status": "aprovado",
+    "publicado": false,
+    "atualizadoEm": "2026-07-28T23:21:33.024Z"
   }
 ]
