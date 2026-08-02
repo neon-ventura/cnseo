@@ -16,5 +16,22 @@
     "status": "aprovado",
     "publicado": true,
     "atualizadoEm": "2026-07-28T23:28:18.292Z"
+  },
+  {
+    "id": "msc88vh04vpj86",
+    "data": "2026-08-02T20:02:40.596Z",
+    "nome": "Andrea Neves de Almeida Coelho",
+    "cro": "234556",
+    "uf": "MG",
+    "municipio": "Belo Horizonte",
+    "email": "carloscoelho100@gmail.com",
+    "telefone": "+5535999530343",
+    "modalidades": "Sedação consciente (óxido nitroso), Sedação venosa (endovenosa), Sedação oral / medicamentosa, Atendimento a pacientes especiais, Sedação em odontopediatria",
+    "deslocamento": "Desloca-se para outras cidades",
+    "obs": "Desloco-me até 230km",
+    "autorizaPublico": true,
+    "aceiteTermos": true,
+    "status": "pendente",
+    "publicado": false
   }
 ]
