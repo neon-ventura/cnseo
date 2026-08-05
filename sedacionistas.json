@@ -31,7 +31,8 @@
     "obs": "Desloco-me até 230km",
     "autorizaPublico": true,
     "aceiteTermos": true,
-    "status": "pendente",
-    "publicado": false
+    "status": "aprovado",
+    "publicado": false,
+    "atualizadoEm": "2026-08-05T14:14:20.827Z"
   }
 ]
