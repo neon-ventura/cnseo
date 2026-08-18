@@ -180,7 +180,7 @@
     "municipio": "Belo Horizonte",
     "deslocamento": "A combinar",
     "autorizaPublico": true,
-    "status": "pendente",
+    "status": "aprovado",
     "publicado": false,
     "historico": [
       {
@@ -188,7 +188,18 @@
         "protocolo": "P-2026-000002",
         "em": "2026-08-18T19:50:03.758Z",
         "ip": "177.145.45.15"
+      },
+      {
+        "evento": "alteracao",
+        "protocolo": "P-2026-000003",
+        "em": "2026-08-18T19:50:57.978Z",
+        "ip": "177.145.45.15",
+        "campos": [
+          "status"
+        ]
       }
-    ]
+    ],
+    "atualizadoEm": "2026-08-18T19:50:57.978Z",
+    "ultimoProtocolo": "P-2026-000003"
   }
 ]
