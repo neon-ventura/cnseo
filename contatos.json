@@ -8,5 +8,15 @@
     "assunto": "Dúvida geral",
     "mensagem": "TESTE AUTOMATICO - quero saber o valor da anualidade.",
     "lida": false
+  },
+  {
+    "id": "mt5x4mcmgmf7r0",
+    "data": "2026-08-23T14:44:31.654Z",
+    "nome": "Cliente Teste",
+    "email": "cliente@exemplo.com",
+    "telefone": "",
+    "assunto": "Dúvida geral",
+    "mensagem": "Quero saber o valor da anualidade.",
+    "lida": false
   }
 ]
