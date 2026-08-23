@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "id": "SD-000003",
+    "protocolo": "P-2026-000004",
+    "data": "2026-08-23T11:32:10.807Z",
+    "criadoEm": "2026-08-23T11:32:10.807Z",
+    "ip": "177.3.58.96",
+    "navegador": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",
+    "nome": "Luciano Augusto de Jesus",
+    "cidade": "Goiânia",
+    "uf": "GO",
+    "bairro": "Parque Amazonas",
+    "telefoneProfissional": "62984692074",
+    "cro": "CRO-GO 4313",
+    "cpf": "68992106149",
+    "cnpj": "",
+    "nascimento": "1970-02-16",
+    "sexo": "Masculino",
+    "cidadeAtuacao": "Goiânia",
+    "ufAtuacao": "GO",
+    "bairroAtuacao": "Pq Amazona2",
+    "atendeOutrasCidades": "Sim",
+    "raioDeslocamento": "A combinar",
+    "telefone": "+5562984692074",
+    "email": "laugustojesus@hotmail.com",
+    "graduacao": [
+      "Odontologia"
+    ],
+    "anoGraduacao": "1994",
+    "universidade": "Unievangélica",
+    "especializacoes": "CTBMF, patologia bucal, radiologia, farmacologia, fisiologia",
+    "titulacao": [
+      "Especialização"
+    ],
+    "situacaoCursoSedacao": "Concluído",
+    "cursoSedacaoNome": "Prof. Luciano Jesus",
+    "cursoSedacaoAno": "2023",
+    "anexoFormacao": "",
+    "realizaSedacao": "Sim",
+    "modalidades": "Sedação medicamentosa por via IV",
+    "tempoAtuacao": "Mais de 5 anos",
+    "tiposPacientes": [
+      "Crianças",
+      "Adultos",
+      "Idosos",
+      "Pessoas com deficiência (PCD)",
+      "Pacientes fóbicos (em geral)",
+      "ASA I",
+      "ASA II",
+      "ASA III"
+    ],
+    "atuaEm": [
+      "Profissional itinerante"
+    ],
+    "equipePropria": [
+      "Sim"
+    ],
+    "monitorMultiparametrico": "Sim",
+    "oxigenio": "Sim",
+    "capnografo": "Sim",
+    "dea": "Sim",
+    "treinamentoEmergencias": [
+      "Sim",
+      "BLS",
+      "ACLS",
+      "PALS"
+    ],
+    "dataUltimoTreinamento": "2026-08-22",
+    "anexoEmergencias": "",
+    "interesses": [
+      "Prestar serviços de sedação",
+      "Participar de grupos de estudos",
+      "Participar de pesquisas"
+    ],
+    "autorizaDivulgar": [
+      "Nome profissional",
+      "Telefone / WhatsApp",
+      "Cidade",
+      "Bairro",
+      "Estado",
+      "Nº do CRO + Estado"
+    ],
+    "obs": "",
+    "declaracaoVeracidade": true,
+    "aceiteTermos": true,
+    "aceiteCiencia": true,
+    "aceiteEm": "2026-08-23T11:32:10.807Z",
+    "municipio": "Goiânia",
+    "deslocamento": "A combinar",
+    "autorizaPublico": false,
+    "status": "pendente",
+    "publicado": false,
+    "historico": [
+      {
+        "evento": "cadastro",
+        "protocolo": "P-2026-000004",
+        "em": "2026-08-23T11:32:10.807Z",
+        "ip": "177.3.58.96"
+      }
+    ]
+  }
+]
