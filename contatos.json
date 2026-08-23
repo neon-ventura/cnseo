@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "mt5wnvt1d1wxn7",
+    "data": "2026-08-23T14:31:30.757Z",
+    "nome": "Teste Claude",
+    "email": "teste@exemplo.com",
+    "telefone": "(33) 98833-1108",
+    "assunto": "Dúvida geral",
+    "mensagem": "TESTE AUTOMATICO - quero saber o valor da anualidade.",
+    "lida": false
+  }
+]
