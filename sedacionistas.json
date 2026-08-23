@@ -98,5 +98,102 @@
         "ip": "177.3.58.96"
       }
     ]
+  },
+  {
+    "id": "SD-000004",
+    "protocolo": "P-2026-000005",
+    "data": "2026-08-23T21:18:56.409Z",
+    "criadoEm": "2026-08-23T21:18:56.409Z",
+    "ip": "172.225.193.46",
+    "navegador": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6 Mobile/15E148 Safari/604.1",
+    "nome": "Marcelo Meyer dos Santos",
+    "cidade": "Recife",
+    "uf": "PE",
+    "bairro": "Madalena",
+    "telefoneProfissional": "8191340594",
+    "cro": "CRO-PE:8589",
+    "cpf": "07657842709",
+    "cnpj": "",
+    "nascimento": "1978-01-04",
+    "sexo": "Masculino",
+    "cidadeAtuacao": "Recife",
+    "ufAtuacao": "PE",
+    "bairroAtuacao": "Todos",
+    "atendeOutrasCidades": "Sim",
+    "raioDeslocamento": "Até 300 km",
+    "telefone": "8191340594",
+    "email": "drmarcelomeyer@hotmail.com",
+    "graduacao": [
+      "Odontologia"
+    ],
+    "anoGraduacao": "2006",
+    "universidade": "Universidade Veiga de Almeida",
+    "especializacoes": "Implantodontia",
+    "titulacao": [
+      "Aperfeiçoamento",
+      "Atualização",
+      "Especialização"
+    ],
+    "situacaoCursoSedacao": "Concluído",
+    "cursoSedacaoNome": "Ciclo Saúde",
+    "cursoSedacaoAno": "2024",
+    "anexoFormacao": "anexos/2026-08-23-mt6b437mimpjey-CERTIFICADO-SMP-220H-marcelo-meyer.pdf",
+    "realizaSedacao": "Sim",
+    "modalidades": "Sedação medicamentosa por via oral, Sedação inalatória — IN, Sedação medicamentosa por via IM, Sedação medicamentosa por via IV",
+    "tempoAtuacao": "Mais de 5 anos",
+    "tiposPacientes": [
+      "Crianças",
+      "Adultos",
+      "Idosos",
+      "Pessoas com deficiência (PCD)",
+      "Pacientes fóbicos (em geral)",
+      "ASA I",
+      "ASA II"
+    ],
+    "atuaEm": [
+      "Profissional itinerante",
+      "Clínica de terceiros"
+    ],
+    "equipePropria": [
+      "Não"
+    ],
+    "monitorMultiparametrico": "Sim",
+    "oxigenio": "Sim",
+    "capnografo": "Sim",
+    "dea": "Sim",
+    "treinamentoEmergencias": [
+      "Sim"
+    ],
+    "dataUltimoTreinamento": "",
+    "anexoEmergencias": "anexos/2026-08-23-mt6b6hw31vpfi8-CERTIFICADO-TURMA-1-Marcelo.pdf",
+    "interesses": [
+      "Prestar serviços de sedação",
+      "Apenas integrar a comunidade CONSEO"
+    ],
+    "autorizaDivulgar": [
+      "Nome profissional",
+      "Telefone / WhatsApp",
+      "Cidade",
+      "Estado",
+      "Nº do CRO + Estado"
+    ],
+    "obs": "",
+    "declaracaoVeracidade": true,
+    "aceiteTermos": true,
+    "aceiteCiencia": true,
+    "aceiteEm": "2026-08-23T21:18:56.409Z",
+    "municipio": "Recife",
+    "deslocamento": "Até 300 km",
+    "autorizaPublico": false,
+    "status": "pendente",
+    "publicado": false,
+    "historico": [
+      {
+        "evento": "cadastro",
+        "protocolo": "P-2026-000005",
+        "em": "2026-08-23T21:18:56.409Z",
+        "ip": "172.225.193.46"
+      }
+    ]
   }
 ]
