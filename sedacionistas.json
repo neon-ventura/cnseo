@@ -484,5 +484,107 @@
         "ip": "104.28.63.138"
       }
     ]
+  },
+  {
+    "id": "SD-000008",
+    "protocolo": "P-2026-000012",
+    "data": "2026-08-25T01:20:16.529Z",
+    "criadoEm": "2026-08-25T01:20:16.529Z",
+    "ip": "181.77.121.33",
+    "navegador": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.5.2 Mobile/15E148 Safari/604.1",
+    "nome": "Everaldo pinheiro de Andrade lima",
+    "cidade": "Timbaúba",
+    "uf": "PE",
+    "bairro": "Centro",
+    "telefoneProfissional": "81996196848",
+    "cro": "CroPE 10873",
+    "cpf": "06478601471",
+    "cnpj": "",
+    "nascimento": "1989-04-15",
+    "sexo": "Masculino",
+    "cidadeAtuacao": "Timbaúba",
+    "ufAtuacao": "PE",
+    "bairroAtuacao": "Centro",
+    "atendeOutrasCidades": "Sim",
+    "raioDeslocamento": "A combinar",
+    "telefone": "81996196848",
+    "email": "everaldopinheiroandradelima@gmail.com",
+    "graduacao": [
+      "Odontologia"
+    ],
+    "anoGraduacao": "2015",
+    "universidade": "UFPE",
+    "especializacoes": "Implantodontia, habilitação em óxido nitroso",
+    "titulacao": [
+      "Especialização"
+    ],
+    "situacaoCursoSedacao": "Concluído",
+    "cursoSedacaoNome": "Faculdade cecape",
+    "cursoSedacaoAno": "2024",
+    "anexoFormacao": "",
+    "realizaSedacao": "Sim",
+    "modalidades": "Sedação inalatória com óxido nitroso, Sedação medicamentosa por via oral, Sedação inalatória — IN, Sedação medicamentosa por via IM, Sedação medicamentosa por via IV",
+    "tempoAtuacao": "De 2 a 5 anos",
+    "tiposPacientes": [
+      "Crianças",
+      "Adultos",
+      "Idosos",
+      "Pessoas com deficiência (PCD)",
+      "Pacientes fóbicos (em geral)",
+      "ASA I",
+      "ASA II"
+    ],
+    "atuaEm": [
+      "Profissional itinerante",
+      "Clínica própria",
+      "Clínica de terceiros"
+    ],
+    "equipePropria": [
+      "Sim"
+    ],
+    "monitorMultiparametrico": "Sim",
+    "oxigenio": "Sim",
+    "capnografo": "Não",
+    "dea": "Sim",
+    "treinamentoEmergencias": [
+      "Sim",
+      "BLS",
+      "Outros"
+    ],
+    "dataUltimoTreinamento": "2025-09-22",
+    "anexoEmergencias": "anexos/2026-08-25-mt7z9yivh0ckkm-Sedacao1.pdf",
+    "interesses": [
+      "Prestar serviços de sedação",
+      "Participar de grupos de estudos",
+      "Participar de pesquisas",
+      "Apenas integrar a comunidade CONSEO",
+      "Desejo integrar o Nossa Vitrine da CONSEO e autorizo a divulgação dos dados por mim permitidos"
+    ],
+    "autorizaDivulgar": [
+      "Nome profissional",
+      "Telefone / WhatsApp",
+      "Cidade",
+      "Bairro",
+      "Estado",
+      "Nº do CRO + Estado"
+    ],
+    "obs": "Atualmente cursa especialização em pacientes com necessidades especiais",
+    "declaracaoVeracidade": true,
+    "aceiteTermos": true,
+    "aceiteCiencia": true,
+    "aceiteEm": "2026-08-25T01:20:16.529Z",
+    "municipio": "Timbaúba",
+    "deslocamento": "A combinar",
+    "autorizaPublico": true,
+    "status": "pendente",
+    "publicado": false,
+    "historico": [
+      {
+        "evento": "cadastro",
+        "protocolo": "P-2026-000012",
+        "em": "2026-08-25T01:20:16.529Z",
+        "ip": "181.77.121.33"
+      }
+    ]
   }
 ]
