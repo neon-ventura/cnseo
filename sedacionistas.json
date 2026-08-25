@@ -886,5 +886,103 @@
         "ip": "45.182.99.175"
       }
     ]
+  },
+  {
+    "id": "SD-000012",
+    "protocolo": "P-2026-000016",
+    "data": "2026-08-25T02:04:19.942Z",
+    "criadoEm": "2026-08-25T02:04:19.942Z",
+    "ip": "45.191.205.138",
+    "navegador": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6 Mobile/15E148 Safari/604.1",
+    "nome": "Ruan Alves da Silva",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "bairro": "Jabaquara",
+    "telefoneProfissional": "11946077413",
+    "cro": "146018 SP",
+    "cpf": "09093759418",
+    "cnpj": "54.487.257/0001-49",
+    "nascimento": "1992-07-09",
+    "sexo": "Masculino",
+    "cidadeAtuacao": "São Paulo",
+    "ufAtuacao": "SP",
+    "bairroAtuacao": "Grande São Paulo",
+    "atendeOutrasCidades": "Sim",
+    "raioDeslocamento": "A combinar",
+    "telefone": "11946077413",
+    "email": "dr.ruanalvesdasilva@icloud.com",
+    "graduacao": [
+      "Odontologia"
+    ],
+    "anoGraduacao": "2022",
+    "universidade": "Anhanguera",
+    "especializacoes": "CTBMF / Habilitação em Analgesia e Sedação",
+    "titulacao": [
+      "Aperfeiçoamento",
+      "Atualização",
+      "Especialização"
+    ],
+    "situacaoCursoSedacao": "Concluído",
+    "cursoSedacaoNome": "Dr. Cristiano Cone",
+    "cursoSedacaoAno": "2023",
+    "anexoFormacao": "",
+    "realizaSedacao": "Sim",
+    "modalidades": "Sedação inalatória com óxido nitroso, Sedação medicamentosa por via oral, Sedação medicamentosa por via IM, Sedação medicamentosa por via IV",
+    "tempoAtuacao": "De 2 a 5 anos",
+    "tiposPacientes": [
+      "Crianças",
+      "Adultos",
+      "Idosos",
+      "Pessoas com deficiência (PCD)",
+      "Pacientes fóbicos (em geral)",
+      "ASA I",
+      "ASA II",
+      "ASA III"
+    ],
+    "atuaEm": [
+      "Profissional itinerante"
+    ],
+    "equipePropria": [
+      "Sim",
+      "Enfermeiro",
+      "Técnico em enfermagem"
+    ],
+    "monitorMultiparametrico": "Sim",
+    "oxigenio": "Sim",
+    "capnografo": "Sim",
+    "dea": "Sim",
+    "treinamentoEmergencias": [
+      "Sim",
+      "BLS",
+      "ACLS"
+    ],
+    "dataUltimoTreinamento": "2026-05-31",
+    "anexoEmergencias": "anexos/2026-08-25-mt80tzzx2eezgh-ACLS.pdf",
+    "interesses": [
+      "Prestar serviços de sedação"
+    ],
+    "autorizaDivulgar": [
+      "Nome profissional",
+      "Telefone / WhatsApp",
+      "Nº do CRO + Estado"
+    ],
+    "obs": "",
+    "declaracaoVeracidade": true,
+    "aceiteTermos": true,
+    "aceiteCiencia": true,
+    "aceiteEm": "2026-08-25T02:04:19.942Z",
+    "municipio": "São Paulo",
+    "deslocamento": "A combinar",
+    "autorizaPublico": false,
+    "status": "pendente",
+    "publicado": false,
+    "historico": [
+      {
+        "evento": "cadastro",
+        "protocolo": "P-2026-000016",
+        "em": "2026-08-25T02:04:19.942Z",
+        "ip": "45.191.205.138"
+      }
+    ]
   }
 ]
