@@ -1480,5 +1480,106 @@
         "ip": "187.85.47.208"
       }
     ]
+  },
+  {
+    "id": "SD-000018",
+    "protocolo": "P-2026-000026",
+    "data": "2026-08-25T22:29:52.801Z",
+    "criadoEm": "2026-08-25T22:29:52.801Z",
+    "ip": "200.153.163.140",
+    "navegador": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36",
+    "nome": "Débora Catanoce Gandur Adami",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "bairro": "Santa Cecilia",
+    "telefoneProfissional": "11943238881",
+    "cro": "66275SP",
+    "cpf": "138.389.178-80",
+    "cnpj": "46.052.008/0001-00",
+    "nascimento": "1972-06-15",
+    "sexo": "Feminino",
+    "cidadeAtuacao": "São Paulo",
+    "ufAtuacao": "SP",
+    "bairroAtuacao": "Todos",
+    "atendeOutrasCidades": "Sim",
+    "raioDeslocamento": "A combinar",
+    "telefone": "11943238881",
+    "email": "deboragandur@gmail.com",
+    "graduacao": [
+      "Odontologia"
+    ],
+    "anoGraduacao": "1998",
+    "universidade": "Unisa",
+    "especializacoes": "Dentística, Ortodontia, Habilitado em Sedação Consciente com Óxido Nitroso ou Analgesia Inalatória",
+    "titulacao": [
+      "Especialização",
+      "Outro"
+    ],
+    "situacaoCursoSedacao": "Concluído",
+    "cursoSedacaoNome": "FAIPE",
+    "cursoSedacaoAno": "2022",
+    "anexoFormacao": "anexos/2026-08-25-mt98kv4gu00kd0-Whatsapp-Scan-18-de-junho-de-2026-at-11.50.54.pdf",
+    "realizaSedacao": "Sim",
+    "modalidades": "Sedação inalatória com óxido nitroso",
+    "tempoAtuacao": "De 2 a 5 anos",
+    "tiposPacientes": [
+      "Crianças",
+      "Adultos",
+      "Idosos",
+      "Pessoas com deficiência (PCD)",
+      "Pacientes fóbicos (em geral)",
+      "ASA I"
+    ],
+    "atuaEm": [
+      "Profissional itinerante",
+      "Clínica própria",
+      "Clínica de terceiros"
+    ],
+    "equipePropria": [
+      "Sim",
+      "Outro"
+    ],
+    "monitorMultiparametrico": "Sim",
+    "oxigenio": "Sim",
+    "capnografo": "Sim",
+    "dea": "Sim",
+    "treinamentoEmergencias": [
+      "Sim",
+      "BLS"
+    ],
+    "dataUltimoTreinamento": "2026-08-27",
+    "anexoEmergencias": "anexos/2026-08-25-mt98jhbfa9px9x-Whatsapp-Scan-18-de-junho-de-2026-at-11.50.54.pdf",
+    "interesses": [
+      "Prestar serviços de sedação",
+      "Participar de grupos de estudos",
+      "Participar de pesquisas",
+      "Quero participar da Sala de Discussão de Casos"
+    ],
+    "autorizaDivulgar": [
+      "Nome profissional",
+      "Telefone / WhatsApp",
+      "Cidade",
+      "Bairro",
+      "Estado",
+      "Somente no Nossa Vitrine da CONSEO, em âmbito nacional"
+    ],
+    "obs": "",
+    "declaracaoVeracidade": true,
+    "aceiteTermos": true,
+    "aceiteCiencia": true,
+    "aceiteEm": "2026-08-25T22:29:52.801Z",
+    "municipio": "São Paulo",
+    "deslocamento": "A combinar",
+    "autorizaPublico": false,
+    "status": "pendente",
+    "publicado": false,
+    "historico": [
+      {
+        "evento": "cadastro",
+        "protocolo": "P-2026-000026",
+        "em": "2026-08-25T22:29:52.801Z",
+        "ip": "200.153.163.140"
+      }
+    ]
   }
 ]
