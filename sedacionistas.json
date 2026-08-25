@@ -1182,5 +1182,102 @@
         "ip": "45.226.117.63"
       }
     ]
+  },
+  {
+    "id": "SD-000015",
+    "protocolo": "P-2026-000023",
+    "data": "2026-08-25T20:01:42.622Z",
+    "criadoEm": "2026-08-25T20:01:42.622Z",
+    "ip": "172.225.100.149",
+    "navegador": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6 Mobile/15E148 Safari/604.1",
+    "nome": "Larissa Coelho Almeida",
+    "cidade": "Vitória da Conquista",
+    "uf": "BA",
+    "bairro": "Recreio",
+    "telefoneProfissional": "77981118349",
+    "cro": "17655 Ba",
+    "cpf": "05596896594",
+    "cnpj": "",
+    "nascimento": "1991-10-28",
+    "sexo": "Feminino",
+    "cidadeAtuacao": "Vitória da Conquista",
+    "ufAtuacao": "BA",
+    "bairroAtuacao": "Recreio e Candeias",
+    "atendeOutrasCidades": "Sim",
+    "raioDeslocamento": "Até 100 km",
+    "telefone": "77981118349",
+    "email": "larissacoelhoalmeida@gmail.com",
+    "graduacao": [
+      "Odontologia"
+    ],
+    "anoGraduacao": "2018",
+    "universidade": "Fainor",
+    "especializacoes": "",
+    "titulacao": [
+      "Especialização"
+    ],
+    "situacaoCursoSedacao": "Concluído",
+    "cursoSedacaoNome": "Instituto de Ensino em Cadáver",
+    "cursoSedacaoAno": "2026",
+    "anexoFormacao": "",
+    "realizaSedacao": "Sim",
+    "modalidades": "Sedação inalatória com óxido nitroso, Sedação medicamentosa por via oral, Sedação inalatória — IN, Sedação medicamentosa por via IM, Sedação medicamentosa por via IV",
+    "tempoAtuacao": "De 6 meses a 1 ano",
+    "tiposPacientes": [
+      "Crianças",
+      "Adultos",
+      "Pacientes fóbicos (em geral)",
+      "ASA I",
+      "ASA II"
+    ],
+    "atuaEm": [
+      "Profissional itinerante",
+      "Clínica própria",
+      "Centro cirúrgico"
+    ],
+    "equipePropria": [
+      "Sim",
+      "Técnico em enfermagem"
+    ],
+    "monitorMultiparametrico": "Sim",
+    "oxigenio": "Sim",
+    "capnografo": "Sim",
+    "dea": "Sim",
+    "treinamentoEmergencias": [
+      "Sim"
+    ],
+    "dataUltimoTreinamento": "2026-07-26",
+    "anexoEmergencias": "",
+    "interesses": [
+      "Prestar serviços de sedação",
+      "Participar de grupos de estudos",
+      "Participar de pesquisas",
+      "Desejo integrar o Nossa Vitrine da CONSEO e autorizo a divulgação dos dados por mim permitidos",
+      "Quero participar da Sala de Discussão de Casos"
+    ],
+    "autorizaDivulgar": [
+      "Nome profissional",
+      "Telefone / WhatsApp",
+      "Cidade",
+      "Nº do CRO + Estado"
+    ],
+    "obs": "",
+    "declaracaoVeracidade": true,
+    "aceiteTermos": true,
+    "aceiteCiencia": true,
+    "aceiteEm": "2026-08-25T20:01:42.622Z",
+    "municipio": "Vitória da Conquista",
+    "deslocamento": "Até 100 km",
+    "autorizaPublico": true,
+    "status": "pendente",
+    "publicado": false,
+    "historico": [
+      {
+        "evento": "cadastro",
+        "protocolo": "P-2026-000023",
+        "em": "2026-08-25T20:01:42.622Z",
+        "ip": "172.225.100.149"
+      }
+    ]
   }
 ]
