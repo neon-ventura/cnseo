@@ -1082,5 +1082,105 @@
         "ip": "191.178.173.223"
       }
     ]
+  },
+  {
+    "id": "SD-000014",
+    "protocolo": "P-2026-000022",
+    "data": "2026-08-25T20:01:24.950Z",
+    "criadoEm": "2026-08-25T20:01:24.950Z",
+    "ip": "45.226.117.63",
+    "navegador": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6 Mobile/15E148 Safari/604.1",
+    "nome": "Robertha Tulio",
+    "cidade": "São Pedro da Aldeia",
+    "uf": "RJ",
+    "bairro": "Centro",
+    "telefoneProfissional": "21987225202",
+    "cro": "45208RJ",
+    "cpf": "09653109731",
+    "cnpj": "",
+    "nascimento": "1983-01-18",
+    "sexo": "Feminino",
+    "cidadeAtuacao": "São Pedro da Aldeia",
+    "ufAtuacao": "RJ",
+    "bairroAtuacao": "Centro",
+    "atendeOutrasCidades": "Sim",
+    "raioDeslocamento": "A combinar",
+    "telefone": "21987225202",
+    "email": "bethatulio@gmail.com",
+    "graduacao": [
+      "Odontologia"
+    ],
+    "anoGraduacao": "2017",
+    "universidade": "Universidade Iguaçu",
+    "especializacoes": "Sedação/ Odontopediatria/Laser",
+    "titulacao": [
+      "Mestrado"
+    ],
+    "situacaoCursoSedacao": "Concluído",
+    "cursoSedacaoNome": "",
+    "cursoSedacaoAno": "",
+    "anexoFormacao": "",
+    "realizaSedacao": "Sim",
+    "modalidades": "Sedação inalatória com óxido nitroso, Sedação medicamentosa por via IM",
+    "tempoAtuacao": "Mais de 5 anos",
+    "tiposPacientes": [
+      "Crianças",
+      "Adultos",
+      "Idosos",
+      "Pessoas com deficiência (PCD)",
+      "Pacientes fóbicos (em geral)",
+      "ASA I",
+      "ASA II",
+      "ASA III"
+    ],
+    "atuaEm": [
+      "Clínica própria",
+      "Centro cirúrgico"
+    ],
+    "equipePropria": [
+      "Sim"
+    ],
+    "monitorMultiparametrico": "Sim",
+    "oxigenio": "Sim",
+    "capnografo": "Sim",
+    "dea": "Sim",
+    "treinamentoEmergencias": [
+      "Sim",
+      "BLS",
+      "Outros"
+    ],
+    "dataUltimoTreinamento": "",
+    "anexoEmergencias": "",
+    "interesses": [
+      "Apenas integrar a comunidade CONSEO",
+      "Desejo integrar o Nossa Vitrine da CONSEO e autorizo a divulgação dos dados por mim permitidos"
+    ],
+    "autorizaDivulgar": [
+      "Nome profissional",
+      "Telefone / WhatsApp",
+      "Cidade",
+      "Bairro",
+      "Estado",
+      "Nº do CRO + Estado",
+      "Somente no Nossa Vitrine da CONSEO, em âmbito nacional"
+    ],
+    "obs": "",
+    "declaracaoVeracidade": true,
+    "aceiteTermos": true,
+    "aceiteCiencia": true,
+    "aceiteEm": "2026-08-25T20:01:24.950Z",
+    "municipio": "São Pedro da Aldeia",
+    "deslocamento": "A combinar",
+    "autorizaPublico": true,
+    "status": "pendente",
+    "publicado": false,
+    "historico": [
+      {
+        "evento": "cadastro",
+        "protocolo": "P-2026-000022",
+        "em": "2026-08-25T20:01:24.950Z",
+        "ip": "45.226.117.63"
+      }
+    ]
   }
 ]
