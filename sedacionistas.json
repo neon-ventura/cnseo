@@ -292,5 +292,100 @@
         "ip": "172.225.223.44"
       }
     ]
+  },
+  {
+    "id": "SD-000006",
+    "protocolo": "P-2026-000008",
+    "data": "2026-08-25T00:47:06.731Z",
+    "criadoEm": "2026-08-25T00:47:06.731Z",
+    "ip": "177.105.129.27",
+    "navegador": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_6_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/151.0.7922.112 Mobile/15E148 Safari/604.1",
+    "nome": "Luis Felipe Marques",
+    "cidade": "Garça",
+    "uf": "SP",
+    "bairro": "Cafezal",
+    "telefoneProfissional": "14 99122-6842",
+    "cro": "CRO-SP 131453",
+    "cpf": "23524366805",
+    "cnpj": "62943064000183",
+    "nascimento": "1996-11-28",
+    "sexo": "Masculino",
+    "cidadeAtuacao": "Garça",
+    "ufAtuacao": "SP",
+    "bairroAtuacao": "Ferrarópolis",
+    "atendeOutrasCidades": "Sim",
+    "raioDeslocamento": "Até 100 km",
+    "telefone": "14988156429",
+    "email": "marquesfelipeluis123@outlook.com",
+    "graduacao": [
+      "Odontologia"
+    ],
+    "anoGraduacao": "2015",
+    "universidade": "Unimar Universidade de Marília",
+    "especializacoes": "",
+    "titulacao": [
+      "Especialização"
+    ],
+    "situacaoCursoSedacao": "Concluído",
+    "cursoSedacaoNome": "Sedando sem medo -Adriana",
+    "cursoSedacaoAno": "2025",
+    "anexoFormacao": "",
+    "realizaSedacao": "Sim",
+    "modalidades": "Sedação medicamentosa por via oral, Sedação inalatória — IN, Sedação medicamentosa por via IM",
+    "tempoAtuacao": "De 6 meses a 1 ano",
+    "tiposPacientes": [
+      "Crianças",
+      "Adultos",
+      "Idosos",
+      "Pessoas com deficiência (PCD)",
+      "Pacientes fóbicos (em geral)",
+      "ASA I"
+    ],
+    "atuaEm": [
+      "Profissional itinerante",
+      "Clínica própria"
+    ],
+    "equipePropria": [
+      "ASB / TSB"
+    ],
+    "monitorMultiparametrico": "Sim",
+    "oxigenio": "Sim",
+    "capnografo": "Não",
+    "dea": "Não",
+    "treinamentoEmergencias": [
+      "Sim",
+      "BLS"
+    ],
+    "dataUltimoTreinamento": "2026-08-24",
+    "anexoEmergencias": "",
+    "interesses": [
+      "Prestar serviços de sedação",
+      "Participar de grupos de estudos",
+      "Participar de pesquisas",
+      "Quero participar da Sala de Discussão de Casos"
+    ],
+    "autorizaDivulgar": [
+      "Nome profissional",
+      "Telefone / WhatsApp",
+      "Cidade"
+    ],
+    "obs": "",
+    "declaracaoVeracidade": true,
+    "aceiteTermos": true,
+    "aceiteCiencia": true,
+    "aceiteEm": "2026-08-25T00:47:06.731Z",
+    "municipio": "Garça",
+    "deslocamento": "Até 100 km",
+    "autorizaPublico": false,
+    "status": "pendente",
+    "publicado": false,
+    "historico": [
+      {
+        "evento": "cadastro",
+        "protocolo": "P-2026-000008",
+        "em": "2026-08-25T00:47:06.731Z",
+        "ip": "177.105.129.27"
+      }
+    ]
   }
 ]
