@@ -387,5 +387,102 @@
         "ip": "177.105.129.27"
       }
     ]
+  },
+  {
+    "id": "SD-000007",
+    "protocolo": "P-2026-000011",
+    "data": "2026-08-25T01:14:52.174Z",
+    "criadoEm": "2026-08-25T01:14:52.174Z",
+    "ip": "104.28.63.138",
+    "navegador": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6.1 Mobile/15E148 Safari/604.1",
+    "nome": "Handrey H Prosdocimo",
+    "cidade": "Curitiba",
+    "uf": "PR",
+    "bairro": "Centro",
+    "telefoneProfissional": "419836072",
+    "cro": "15893 PR",
+    "cpf": "02876610914",
+    "cnpj": "244062400000159",
+    "nascimento": "1978-08-14",
+    "sexo": "Masculino",
+    "cidadeAtuacao": "Curitiba",
+    "ufAtuacao": "PR",
+    "bairroAtuacao": "Centro",
+    "atendeOutrasCidades": "Sim",
+    "raioDeslocamento": "Até 50 km",
+    "telefone": "41984936072",
+    "email": "contato@hodonto.com",
+    "graduacao": [
+      "Odontologia"
+    ],
+    "anoGraduacao": "2004",
+    "universidade": "Universidade Tuiuti do Paraná",
+    "especializacoes": "Implantodontia",
+    "titulacao": [
+      "Especialização"
+    ],
+    "situacaoCursoSedacao": "Concluído",
+    "cursoSedacaoNome": "Studia / Habilitação em sedação por óxido nitroso",
+    "cursoSedacaoAno": "2025",
+    "anexoFormacao": "",
+    "realizaSedacao": "Sim",
+    "modalidades": "Sedação inalatória com óxido nitroso, Sedação medicamentosa por via oral, Sedação inalatória — IN, Sedação medicamentosa por via IV",
+    "tempoAtuacao": "De 2 a 5 anos",
+    "tiposPacientes": [
+      "Adultos",
+      "Idosos",
+      "ASA I",
+      "ASA II",
+      "ASA III"
+    ],
+    "atuaEm": [
+      "Profissional itinerante",
+      "Clínica própria"
+    ],
+    "equipePropria": [
+      "ASB / TSB"
+    ],
+    "monitorMultiparametrico": "Sim",
+    "oxigenio": "Sim",
+    "capnografo": "Não",
+    "dea": "Sim",
+    "treinamentoEmergencias": [
+      "Sim",
+      "BLS"
+    ],
+    "dataUltimoTreinamento": "2025-03-24",
+    "anexoEmergencias": "",
+    "interesses": [
+      "Prestar serviços de sedação",
+      "Participar de grupos de estudos",
+      "Participar de pesquisas",
+      "Desejo integrar o Nossa Vitrine da CONSEO e autorizo a divulgação dos dados por mim permitidos",
+      "Quero participar da Sala de Discussão de Casos"
+    ],
+    "autorizaDivulgar": [
+      "Nome profissional",
+      "Telefone / WhatsApp",
+      "Cidade",
+      "Bairro",
+      "Estado"
+    ],
+    "obs": "",
+    "declaracaoVeracidade": true,
+    "aceiteTermos": true,
+    "aceiteCiencia": true,
+    "aceiteEm": "2026-08-25T01:14:52.174Z",
+    "municipio": "Curitiba",
+    "deslocamento": "Até 50 km",
+    "autorizaPublico": true,
+    "status": "pendente",
+    "publicado": false,
+    "historico": [
+      {
+        "evento": "cadastro",
+        "protocolo": "P-2026-000011",
+        "em": "2026-08-25T01:14:52.174Z",
+        "ip": "104.28.63.138"
+      }
+    ]
   }
 ]
