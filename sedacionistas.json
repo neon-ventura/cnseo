@@ -687,5 +687,104 @@
         "ip": "181.77.121.33"
       }
     ]
+  },
+  {
+    "id": "SD-000010",
+    "protocolo": "P-2026-000014",
+    "data": "2026-08-25T01:44:15.726Z",
+    "criadoEm": "2026-08-25T01:44:15.726Z",
+    "ip": "172.225.82.164",
+    "navegador": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6 Mobile/15E148 Safari/604.1",
+    "nome": "Leidielly Aline Valente Campanholi",
+    "cidade": "Londrina",
+    "uf": "PR",
+    "bairro": "Centro",
+    "telefoneProfissional": "41999317133",
+    "cro": "24429 PR",
+    "cpf": "06551286976",
+    "cnpj": "",
+    "nascimento": "1990-09-19",
+    "sexo": "Feminino",
+    "cidadeAtuacao": "Londrina",
+    "ufAtuacao": "PR",
+    "bairroAtuacao": "Centro",
+    "atendeOutrasCidades": "Sim",
+    "raioDeslocamento": "Até 50 km",
+    "telefone": "41999317133",
+    "email": "leidielly_@hotmail.com",
+    "graduacao": [
+      "Odontologia"
+    ],
+    "anoGraduacao": "2013",
+    "universidade": "Universidade Positivo",
+    "especializacoes": "Odontopediatria e Pacientes com Necessidades Especiais",
+    "titulacao": [
+      "Especialização"
+    ],
+    "situacaoCursoSedacao": "Concluído",
+    "cursoSedacaoNome": "ABO Araçatuba",
+    "cursoSedacaoAno": "2024",
+    "anexoFormacao": "",
+    "realizaSedacao": "Sim",
+    "modalidades": "Sedação inalatória com óxido nitroso, Sedação medicamentosa por via oral, Sedação inalatória — IN, Sedação medicamentosa por via IM",
+    "tempoAtuacao": "De 2 a 5 anos",
+    "tiposPacientes": [
+      "Crianças",
+      "Adultos",
+      "Idosos",
+      "Pessoas com deficiência (PCD)",
+      "Pacientes fóbicos (em geral)",
+      "ASA I",
+      "ASA II"
+    ],
+    "atuaEm": [
+      "Profissional itinerante",
+      "Clínica de terceiros"
+    ],
+    "equipePropria": [
+      "Com parceiros / sócios",
+      "Enfermeiro",
+      "ASB / TSB"
+    ],
+    "monitorMultiparametrico": "Sim",
+    "oxigenio": "Sim",
+    "capnografo": "Não",
+    "dea": "Não",
+    "treinamentoEmergencias": [
+      "Sim",
+      "BLS"
+    ],
+    "dataUltimoTreinamento": "2024-04-24",
+    "anexoEmergencias": "",
+    "interesses": [
+      "Prestar serviços de sedação",
+      "Participar de grupos de estudos",
+      "Participar de pesquisas",
+      "Desejo integrar o Nossa Vitrine da CONSEO e autorizo a divulgação dos dados por mim permitidos",
+      "Quero participar da Sala de Discussão de Casos"
+    ],
+    "autorizaDivulgar": [
+      "Nome profissional",
+      "Telefone / WhatsApp",
+      "Cidade"
+    ],
+    "obs": "",
+    "declaracaoVeracidade": true,
+    "aceiteTermos": true,
+    "aceiteCiencia": true,
+    "aceiteEm": "2026-08-25T01:44:15.726Z",
+    "municipio": "Londrina",
+    "deslocamento": "Até 50 km",
+    "autorizaPublico": true,
+    "status": "pendente",
+    "publicado": false,
+    "historico": [
+      {
+        "evento": "cadastro",
+        "protocolo": "P-2026-000014",
+        "em": "2026-08-25T01:44:15.726Z",
+        "ip": "172.225.82.164"
+      }
+    ]
   }
 ]
