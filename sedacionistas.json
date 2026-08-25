@@ -984,5 +984,103 @@
         "ip": "45.191.205.138"
       }
     ]
+  },
+  {
+    "id": "SD-000013",
+    "protocolo": "P-2026-000018",
+    "data": "2026-08-25T03:19:16.973Z",
+    "criadoEm": "2026-08-25T03:19:16.973Z",
+    "ip": "191.178.173.223",
+    "navegador": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6 Safari/605.1.15",
+    "nome": "Leonardo Cândido Ribeiro",
+    "cidade": "São Luís",
+    "uf": "MA",
+    "bairro": "Maranhão novo",
+    "telefoneProfissional": "98991645373",
+    "cro": "2608",
+    "cpf": "33262897825",
+    "cnpj": "",
+    "nascimento": "1984-03-11",
+    "sexo": "Masculino",
+    "cidadeAtuacao": "São Luís",
+    "ufAtuacao": "MA",
+    "bairroAtuacao": "Todos",
+    "atendeOutrasCidades": "Sim",
+    "raioDeslocamento": "A combinar",
+    "telefone": "98991645373",
+    "email": "leoomorai@gmail.com",
+    "graduacao": [
+      "Odontologia"
+    ],
+    "anoGraduacao": "2006",
+    "universidade": "IMES FAFICA",
+    "especializacoes": "Habilitação em sedação óxido nitroso",
+    "titulacao": [
+      "Aperfeiçoamento",
+      "Outro"
+    ],
+    "situacaoCursoSedacao": "Concluído",
+    "cursoSedacaoNome": "Ciclo Saude",
+    "cursoSedacaoAno": "2024",
+    "anexoFormacao": "anexos/2026-08-25-mt83cesftie07i-certificate_tmp_062cfb1a-dd7d-4a1c-a057-f49cae2f0bd9-985541889.pdf",
+    "realizaSedacao": "Sim",
+    "modalidades": "Sedação medicamentosa por via oral, Sedação medicamentosa por via IM, Sedação medicamentosa por via IV",
+    "tempoAtuacao": "De 2 a 5 anos",
+    "tiposPacientes": [
+      "Crianças",
+      "Adultos",
+      "Idosos",
+      "Pessoas com deficiência (PCD)",
+      "Pacientes fóbicos (em geral)",
+      "ASA I",
+      "ASA II"
+    ],
+    "atuaEm": [
+      "Profissional itinerante",
+      "Clínica de terceiros"
+    ],
+    "equipePropria": [
+      "Não"
+    ],
+    "monitorMultiparametrico": "Sim",
+    "oxigenio": "Sim",
+    "capnografo": "Não",
+    "dea": "Não",
+    "treinamentoEmergencias": [
+      "Sim"
+    ],
+    "dataUltimoTreinamento": "",
+    "anexoEmergencias": "",
+    "interesses": [
+      "Prestar serviços de sedação",
+      "Participar de grupos de estudos",
+      "Apenas integrar a comunidade CONSEO",
+      "Quero participar da Sala de Discussão de Casos"
+    ],
+    "autorizaDivulgar": [
+      "Nome profissional",
+      "Telefone / WhatsApp",
+      "Cidade",
+      "Estado",
+      "Nº do CRO + Estado"
+    ],
+    "obs": "",
+    "declaracaoVeracidade": true,
+    "aceiteTermos": true,
+    "aceiteCiencia": true,
+    "aceiteEm": "2026-08-25T03:19:16.973Z",
+    "municipio": "São Luís",
+    "deslocamento": "A combinar",
+    "autorizaPublico": false,
+    "status": "pendente",
+    "publicado": false,
+    "historico": [
+      {
+        "evento": "cadastro",
+        "protocolo": "P-2026-000018",
+        "em": "2026-08-25T03:19:16.973Z",
+        "ip": "191.178.173.223"
+      }
+    ]
   }
 ]
