@@ -1782,5 +1782,105 @@
         "ip": "177.181.238.45"
       }
     ]
+  },
+  {
+    "id": "SD-000021",
+    "protocolo": "P-2026-000033",
+    "data": "2026-08-26T13:32:11.610Z",
+    "criadoEm": "2026-08-26T13:32:11.610Z",
+    "ip": "177.53.166.93",
+    "navegador": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/30.0 Chrome/143.0.0.0 Mobile Safari/537.36",
+    "nome": "Rogério Barbosa Leite",
+    "cidade": "Pirapora",
+    "uf": "MG",
+    "bairro": "Santo Antônio",
+    "telefoneProfissional": "38998547843",
+    "cro": "CRO-MG 28066",
+    "cpf": "034.799.106-88",
+    "cnpj": "",
+    "nascimento": "1978-06-01",
+    "sexo": "Masculino",
+    "cidadeAtuacao": "Pirapora",
+    "ufAtuacao": "MG",
+    "bairroAtuacao": "Santo Antônio",
+    "atendeOutrasCidades": "Sim",
+    "raioDeslocamento": "Até 50 km",
+    "telefone": "38998100106",
+    "email": "rogeriobarbosaleite@yahoo.com.br",
+    "graduacao": [
+      "Odontologia"
+    ],
+    "anoGraduacao": "2001",
+    "universidade": "PUC MINAS",
+    "especializacoes": "Pacientes com Necessidades Especiais",
+    "titulacao": [
+      "Especialização"
+    ],
+    "situacaoCursoSedacao": "Concluído",
+    "cursoSedacaoNome": "Ciclo Saúde/ Canova / IBRAS",
+    "cursoSedacaoAno": "2025",
+    "anexoFormacao": "",
+    "realizaSedacao": "Sim",
+    "modalidades": "Sedação inalatória com óxido nitroso, Sedação medicamentosa por via IM, Sedação medicamentosa por via IV",
+    "tempoAtuacao": "Mais de 5 anos",
+    "tiposPacientes": [
+      "Crianças",
+      "Adultos",
+      "Idosos",
+      "Pessoas com deficiência (PCD)",
+      "Pacientes fóbicos (em geral)",
+      "ASA I",
+      "ASA II"
+    ],
+    "atuaEm": [
+      "Profissional itinerante",
+      "Clínica própria"
+    ],
+    "equipePropria": [
+      "Sim",
+      "Técnico em enfermagem",
+      "ASB / TSB"
+    ],
+    "monitorMultiparametrico": "Sim",
+    "oxigenio": "Sim",
+    "capnografo": "Não",
+    "dea": "Sim",
+    "treinamentoEmergencias": [
+      "Sim",
+      "BLS"
+    ],
+    "dataUltimoTreinamento": "2024-07-10",
+    "anexoEmergencias": "",
+    "interesses": [
+      "Prestar serviços de sedação",
+      "Participar de grupos de estudos",
+      "Desejo integrar o Nossa Vitrine da CONSEO e autorizo a divulgação dos dados por mim permitidos",
+      "Quero participar da Sala de Discussão de Casos"
+    ],
+    "autorizaDivulgar": [
+      "Nome profissional",
+      "Telefone / WhatsApp",
+      "Cidade",
+      "Estado",
+      "Nº do CRO + Estado"
+    ],
+    "obs": "",
+    "declaracaoVeracidade": true,
+    "aceiteTermos": true,
+    "aceiteCiencia": true,
+    "aceiteEm": "2026-08-26T13:32:11.610Z",
+    "municipio": "Pirapora",
+    "deslocamento": "Até 50 km",
+    "autorizaPublico": true,
+    "status": "pendente",
+    "publicado": false,
+    "historico": [
+      {
+        "evento": "cadastro",
+        "protocolo": "P-2026-000033",
+        "em": "2026-08-26T13:32:11.610Z",
+        "ip": "177.53.166.93"
+      }
+    ]
   }
 ]
