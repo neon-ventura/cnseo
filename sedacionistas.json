@@ -2083,5 +2083,106 @@
         "ip": "187.43.140.146"
       }
     ]
+  },
+  {
+    "id": "SD-000024",
+    "protocolo": "P-2026-000036",
+    "data": "2026-08-27T11:11:15.277Z",
+    "criadoEm": "2026-08-27T11:11:15.277Z",
+    "ip": "177.190.209.130",
+    "navegador": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36",
+    "nome": "Josie M Aguiar",
+    "cidade": "Fortaleza",
+    "uf": "CE",
+    "bairro": "VILA VELHA",
+    "telefoneProfissional": "85997714040",
+    "cro": "3996-ce",
+    "cpf": "80487564391",
+    "cnpj": "",
+    "nascimento": "1979-01-24",
+    "sexo": "Feminino",
+    "cidadeAtuacao": "Fortaleza",
+    "ufAtuacao": "CE",
+    "bairroAtuacao": "VILA VELHA",
+    "atendeOutrasCidades": "Sim",
+    "raioDeslocamento": "A combinar",
+    "telefone": "(85) 99771-4040",
+    "email": "josiemenesesaguiar@gmail.com",
+    "graduacao": [
+      "Odontologia",
+      "Enfermagem"
+    ],
+    "anoGraduacao": "2001",
+    "universidade": "Ufc",
+    "especializacoes": "Habilitação em sedação",
+    "titulacao": [
+      "Aperfeiçoamento",
+      "Especialização"
+    ],
+    "situacaoCursoSedacao": "Concluído",
+    "cursoSedacaoNome": "Josie M Aguiar",
+    "cursoSedacaoAno": "2021",
+    "anexoFormacao": "",
+    "realizaSedacao": "Sim",
+    "modalidades": "Sedação inalatória com óxido nitroso, Sedação medicamentosa por via oral, Sedação medicamentosa por via IM, Sedação medicamentosa por via IV",
+    "tempoAtuacao": "Mais de 5 anos",
+    "tiposPacientes": [
+      "Crianças",
+      "Adultos",
+      "Idosos",
+      "Pessoas com deficiência (PCD)",
+      "Pacientes fóbicos (em geral)",
+      "ASA I",
+      "ASA II"
+    ],
+    "atuaEm": [
+      "Profissional itinerante"
+    ],
+    "equipePropria": [
+      "Sim",
+      "Enfermeiro"
+    ],
+    "monitorMultiparametrico": "Sim",
+    "oxigenio": "Sim",
+    "capnografo": "Não",
+    "dea": "Sim",
+    "treinamentoEmergencias": [
+      "Sim",
+      "Outros"
+    ],
+    "dataUltimoTreinamento": "2026-08-09",
+    "anexoEmergencias": "",
+    "interesses": [
+      "Prestar serviços de sedação",
+      "Participar de grupos de estudos",
+      "Participar de pesquisas",
+      "Desejo integrar o Nossa Vitrine da CONSEO e autorizo a divulgação dos dados por mim permitidos",
+      "Quero participar da Sala de Discussão de Casos"
+    ],
+    "autorizaDivulgar": [
+      "Nome profissional",
+      "Telefone / WhatsApp",
+      "Cidade",
+      "Estado",
+      "Nº do CRO + Estado"
+    ],
+    "obs": "",
+    "declaracaoVeracidade": true,
+    "aceiteTermos": true,
+    "aceiteCiencia": true,
+    "aceiteEm": "2026-08-27T11:11:15.277Z",
+    "municipio": "Fortaleza",
+    "deslocamento": "A combinar",
+    "autorizaPublico": true,
+    "status": "pendente",
+    "publicado": false,
+    "historico": [
+      {
+        "evento": "cadastro",
+        "protocolo": "P-2026-000036",
+        "em": "2026-08-27T11:11:15.277Z",
+        "ip": "177.190.209.130"
+      }
+    ]
   }
 ]
