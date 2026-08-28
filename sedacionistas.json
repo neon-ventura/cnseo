@@ -2593,5 +2593,102 @@
         "ip": "177.161.244.196"
       }
     ]
+  },
+  {
+    "id": "SD-000029",
+    "protocolo": "P-2026-000044",
+    "data": "2026-08-28T13:32:40.696Z",
+    "criadoEm": "2026-08-28T13:32:40.696Z",
+    "ip": "170.0.66.124",
+    "navegador": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6 Mobile/15E148 Safari/604.1",
+    "nome": "Edeniro Palhano",
+    "cidade": "Cascavel",
+    "uf": "PR",
+    "bairro": "Jardim acácia",
+    "telefoneProfissional": "45999168253",
+    "cro": "Cro-Pr 25836",
+    "cpf": "03596471974",
+    "cnpj": "57107223000170",
+    "nascimento": "1980-03-23",
+    "sexo": "Masculino",
+    "cidadeAtuacao": "Cascavel",
+    "ufAtuacao": "PR",
+    "bairroAtuacao": "Cidade toda",
+    "atendeOutrasCidades": "Sim",
+    "raioDeslocamento": "Todo o estado",
+    "telefone": "45999168253",
+    "email": "edeniro_p@yahoo.com.br",
+    "graduacao": [
+      "Odontologia"
+    ],
+    "anoGraduacao": "2015",
+    "universidade": "Unipar",
+    "especializacoes": "",
+    "titulacao": [],
+    "situacaoCursoSedacao": "Concluído",
+    "cursoSedacaoNome": "ABASCO",
+    "cursoSedacaoAno": "2018",
+    "anexoFormacao": "",
+    "realizaSedacao": "Sim",
+    "modalidades": "Sedação inalatória com óxido nitroso, Sedação medicamentosa por via oral, Sedação inalatória — IN, Sedação medicamentosa por via IM, Sedação medicamentosa por via IV",
+    "tempoAtuacao": "Mais de 5 anos",
+    "tiposPacientes": [
+      "Crianças",
+      "Adultos",
+      "Idosos",
+      "Pessoas com deficiência (PCD)",
+      "Pacientes fóbicos (em geral)",
+      "ASA III"
+    ],
+    "atuaEm": [
+      "Profissional itinerante",
+      "Clínica de terceiros"
+    ],
+    "equipePropria": [
+      "Sim",
+      "Enfermeiro",
+      "Técnico em enfermagem"
+    ],
+    "monitorMultiparametrico": "Sim",
+    "oxigenio": "Sim",
+    "capnografo": "Não",
+    "dea": "Sim",
+    "treinamentoEmergencias": [
+      "Sim",
+      "BLS",
+      "ACLS"
+    ],
+    "dataUltimoTreinamento": "2025-03-23",
+    "anexoEmergencias": "",
+    "interesses": [
+      "Prestar serviços de sedação",
+      "Participar de grupos de estudos",
+      "Desejo integrar o Nossa Vitrine da CONSEO e autorizo a divulgação dos dados por mim permitidos",
+      "Quero participar da Sala de Discussão de Casos"
+    ],
+    "autorizaDivulgar": [
+      "Nome profissional",
+      "Telefone / WhatsApp",
+      "Cidade",
+      "Nº do CRO + Estado"
+    ],
+    "obs": "",
+    "declaracaoVeracidade": true,
+    "aceiteTermos": true,
+    "aceiteCiencia": true,
+    "aceiteEm": "2026-08-28T13:32:40.696Z",
+    "municipio": "Cascavel",
+    "deslocamento": "Todo o estado",
+    "autorizaPublico": true,
+    "status": "pendente",
+    "publicado": false,
+    "historico": [
+      {
+        "evento": "cadastro",
+        "protocolo": "P-2026-000044",
+        "em": "2026-08-28T13:32:40.696Z",
+        "ip": "170.0.66.124"
+      }
+    ]
   }
 ]
