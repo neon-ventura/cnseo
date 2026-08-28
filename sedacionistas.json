@@ -2502,5 +2502,96 @@
         "ip": "179.186.18.196"
       }
     ]
+  },
+  {
+    "id": "SD-000028",
+    "protocolo": "P-2026-000043",
+    "data": "2026-08-28T13:26:48.437Z",
+    "criadoEm": "2026-08-28T13:26:48.437Z",
+    "ip": "177.161.244.196",
+    "navegador": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/30.0 Chrome/143.0.0.0 Mobile Safari/537.36",
+    "nome": "Beatriz Staut Lobo Ramos Castello",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "bairro": "Ipiranga",
+    "telefoneProfissional": "11941888594",
+    "cro": "cro sp 123850",
+    "cpf": "35305306859",
+    "cnpj": "",
+    "nascimento": "1992-09-08",
+    "sexo": "Feminino",
+    "cidadeAtuacao": "São Paulo",
+    "ufAtuacao": "SP",
+    "bairroAtuacao": "Ipiranga",
+    "atendeOutrasCidades": "Sim",
+    "raioDeslocamento": "A combinar",
+    "telefone": "11941888594",
+    "email": "beatrizstautcastello@gmail.com",
+    "graduacao": [
+      "Odontologia"
+    ],
+    "anoGraduacao": "2015",
+    "universidade": "Universidade Metodista de São Paulo",
+    "especializacoes": "",
+    "titulacao": [],
+    "situacaoCursoSedacao": "Concluído",
+    "cursoSedacaoNome": "",
+    "cursoSedacaoAno": "",
+    "anexoFormacao": "",
+    "realizaSedacao": "Sim",
+    "modalidades": "Sedação inalatória com óxido nitroso, Sedação medicamentosa por via oral, Sedação inalatória — IN, Sedação medicamentosa por via IM",
+    "tempoAtuacao": "Mais de 5 anos",
+    "tiposPacientes": [
+      "Crianças",
+      "Adultos",
+      "Pessoas com deficiência (PCD)",
+      "Pacientes fóbicos (em geral)"
+    ],
+    "atuaEm": [
+      "Profissional itinerante",
+      "Clínica própria"
+    ],
+    "equipePropria": [
+      "Não"
+    ],
+    "monitorMultiparametrico": "Sim",
+    "oxigenio": "Sim",
+    "capnografo": "Sim",
+    "dea": "Sim",
+    "treinamentoEmergencias": [
+      "Sim",
+      "BLS"
+    ],
+    "dataUltimoTreinamento": "",
+    "anexoEmergencias": "",
+    "interesses": [
+      "Prestar serviços de sedação",
+      "Participar de grupos de estudos",
+      "Participar de pesquisas",
+      "Desejo integrar o Nossa Vitrine da CONSEO e autorizo a divulgação dos dados por mim permitidos"
+    ],
+    "autorizaDivulgar": [
+      "Nome profissional",
+      "Telefone / WhatsApp",
+      "Cidade"
+    ],
+    "obs": "",
+    "declaracaoVeracidade": true,
+    "aceiteTermos": true,
+    "aceiteCiencia": true,
+    "aceiteEm": "2026-08-28T13:26:48.437Z",
+    "municipio": "São Paulo",
+    "deslocamento": "A combinar",
+    "autorizaPublico": true,
+    "status": "pendente",
+    "publicado": false,
+    "historico": [
+      {
+        "evento": "cadastro",
+        "protocolo": "P-2026-000043",
+        "em": "2026-08-28T13:26:48.437Z",
+        "ip": "177.161.244.196"
+      }
+    ]
   }
 ]
