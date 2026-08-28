@@ -2174,7 +2174,7 @@
     "municipio": "Fortaleza",
     "deslocamento": "A combinar",
     "autorizaPublico": true,
-    "status": "pendente",
+    "status": "aprovado",
     "publicado": false,
     "historico": [
       {
@@ -2182,8 +2182,19 @@
         "protocolo": "P-2026-000036",
         "em": "2026-08-27T11:11:15.277Z",
         "ip": "177.190.209.130"
+      },
+      {
+        "evento": "alteracao",
+        "protocolo": "P-2026-000039",
+        "em": "2026-08-28T11:44:26.721Z",
+        "ip": "177.40.207.210",
+        "campos": [
+          "status"
+        ]
       }
-    ]
+    ],
+    "atualizadoEm": "2026-08-28T11:44:26.721Z",
+    "ultimoProtocolo": "P-2026-000039"
   },
   {
     "id": "SD-000025",
