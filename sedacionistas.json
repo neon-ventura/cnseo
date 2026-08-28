@@ -2191,10 +2191,20 @@
         "campos": [
           "status"
         ]
+      },
+      {
+        "evento": "alteracao",
+        "protocolo": "P-2026-000040",
+        "em": "2026-08-28T11:45:00.515Z",
+        "ip": "177.40.207.210",
+        "campos": [
+          "anuidade"
+        ]
       }
     ],
-    "atualizadoEm": "2026-08-28T11:44:26.721Z",
-    "ultimoProtocolo": "P-2026-000039"
+    "atualizadoEm": "2026-08-28T11:45:00.515Z",
+    "ultimoProtocolo": "P-2026-000040",
+    "anuidade": "paga"
   },
   {
     "id": "SD-000025",
