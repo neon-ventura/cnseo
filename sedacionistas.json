@@ -2400,5 +2400,107 @@
         "ip": "179.242.245.7"
       }
     ]
+  },
+  {
+    "id": "SD-000027",
+    "protocolo": "P-2026-000042",
+    "data": "2026-08-28T13:19:52.890Z",
+    "criadoEm": "2026-08-28T13:19:52.890Z",
+    "ip": "179.186.18.196",
+    "navegador": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6.1 Mobile/15E148 Safari/604.1",
+    "nome": "Vida Cunha",
+    "cidade": "Feira de Santana",
+    "uf": "BA",
+    "bairro": "Centro",
+    "telefoneProfissional": "75983165624",
+    "cro": "Croba 22397",
+    "cpf": "07113879586",
+    "cnpj": "",
+    "nascimento": "1997-07-05",
+    "sexo": "Feminino",
+    "cidadeAtuacao": "Feira de Santana",
+    "ufAtuacao": "BA",
+    "bairroAtuacao": "Centro",
+    "atendeOutrasCidades": "Sim",
+    "raioDeslocamento": "A combinar",
+    "telefone": "75981742717",
+    "email": "vidacunhaodonto@hotmail.com",
+    "graduacao": [
+      "Odontologia"
+    ],
+    "anoGraduacao": "2021",
+    "universidade": "Unef",
+    "especializacoes": "Habilitação em sedação consciente e analgesia relativa",
+    "titulacao": [
+      "Aperfeiçoamento",
+      "Outro"
+    ],
+    "situacaoCursoSedacao": "Concluído",
+    "cursoSedacaoNome": "Dra Adriana Correia. Odontologia sem medo.",
+    "cursoSedacaoAno": "2025",
+    "anexoFormacao": "",
+    "realizaSedacao": "Sim",
+    "modalidades": "Sedação inalatória com óxido nitroso, Sedação medicamentosa por via oral, Sedação inalatória — IN, Sedação medicamentosa por via IM",
+    "tempoAtuacao": "De 2 a 5 anos",
+    "tiposPacientes": [
+      "Crianças",
+      "Adultos",
+      "Idosos",
+      "Pessoas com deficiência (PCD)",
+      "Pacientes fóbicos (em geral)",
+      "ASA I"
+    ],
+    "atuaEm": [
+      "Clínica própria",
+      "Clínica de terceiros"
+    ],
+    "equipePropria": [
+      "Sim",
+      "Com parceiros / sócios"
+    ],
+    "monitorMultiparametrico": "Sim",
+    "oxigenio": "Sim",
+    "capnografo": "Não",
+    "dea": "Sim",
+    "treinamentoEmergencias": [
+      "Sim",
+      "BLS"
+    ],
+    "dataUltimoTreinamento": "2025-10-22",
+    "anexoEmergencias": "",
+    "interesses": [
+      "Prestar serviços de sedação",
+      "Participar de grupos de estudos",
+      "Participar de pesquisas",
+      "Apenas integrar a comunidade CONSEO",
+      "Desejo integrar o Nossa Vitrine da CONSEO e autorizo a divulgação dos dados por mim permitidos",
+      "Quero participar da Sala de Discussão de Casos"
+    ],
+    "autorizaDivulgar": [
+      "Nome profissional",
+      "Telefone / WhatsApp",
+      "Cidade",
+      "Bairro",
+      "Estado",
+      "Nº do CRO + Estado"
+    ],
+    "obs": "",
+    "declaracaoVeracidade": true,
+    "aceiteTermos": true,
+    "aceiteCiencia": true,
+    "aceiteEm": "2026-08-28T13:19:52.890Z",
+    "municipio": "Feira de Santana",
+    "deslocamento": "A combinar",
+    "autorizaPublico": true,
+    "status": "pendente",
+    "publicado": false,
+    "historico": [
+      {
+        "evento": "cadastro",
+        "protocolo": "P-2026-000042",
+        "em": "2026-08-28T13:19:52.890Z",
+        "ip": "179.186.18.196"
+      }
+    ]
   }
 ]
