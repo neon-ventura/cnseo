@@ -2796,5 +2796,100 @@
         "ip": "143.137.178.137"
       }
     ]
+  },
+  {
+    "id": "SD-000031",
+    "protocolo": "P-2026-000046",
+    "data": "2026-08-28T15:01:25.667Z",
+    "criadoEm": "2026-08-28T15:01:25.667Z",
+    "ip": "45.236.39.214",
+    "navegador": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6 Mobile/15E148 Safari/604.1",
+    "nome": "Arielle Nagata",
+    "cidade": "Santa Fé do Sul",
+    "uf": "SP",
+    "bairro": "Centro",
+    "telefoneProfissional": "17981709999",
+    "cro": "141231",
+    "cpf": "32521459879",
+    "cnpj": "",
+    "nascimento": "1984-09-05",
+    "sexo": "Feminino",
+    "cidadeAtuacao": "Santa Fé do Sul",
+    "ufAtuacao": "SP",
+    "bairroAtuacao": "Centro",
+    "atendeOutrasCidades": "Sim",
+    "raioDeslocamento": "Até 300 km",
+    "telefone": "17981709999",
+    "email": "ariellenagata@hotmail.com",
+    "graduacao": [
+      "Odontologia",
+      "Biomedicina"
+    ],
+    "anoGraduacao": "2020",
+    "universidade": "Unifunec",
+    "especializacoes": "Implantodontia, Harmonização",
+    "titulacao": [
+      "Especialização"
+    ],
+    "situacaoCursoSedacao": "Concluído",
+    "cursoSedacaoNome": "Luciano de Jesus, Cristian Canova, Carlos Ribeiro, Sobraso",
+    "cursoSedacaoAno": "2023",
+    "anexoFormacao": "anexos/2026-08-28-mtd2urf9u1776b-IMG_8470.jpeg",
+    "realizaSedacao": "Sim",
+    "modalidades": "Sedação medicamentosa por via oral, Sedação medicamentosa por via IM, Sedação medicamentosa por via IV",
+    "tempoAtuacao": "De 2 a 5 anos",
+    "tiposPacientes": [
+      "Adultos",
+      "Idosos",
+      "Pacientes fóbicos (em geral)",
+      "ASA I",
+      "ASA II"
+    ],
+    "atuaEm": [
+      "Clínica própria"
+    ],
+    "equipePropria": [
+      "Sim"
+    ],
+    "monitorMultiparametrico": "Sim",
+    "oxigenio": "Sim",
+    "capnografo": "Não",
+    "dea": "Sim",
+    "treinamentoEmergencias": [
+      "Sim",
+      "BLS",
+      "ACLS"
+    ],
+    "dataUltimoTreinamento": "2025-10-24",
+    "anexoEmergencias": "anexos/2026-08-28-mtd2wkbdb1vngu-IMG_8473.jpeg",
+    "interesses": [
+      "Prestar serviços de sedação",
+      "Apenas integrar a comunidade CONSEO"
+    ],
+    "autorizaDivulgar": [
+      "Nome profissional",
+      "Telefone / WhatsApp",
+      "Cidade",
+      "Estado",
+      "Nº do CRO + Estado"
+    ],
+    "obs": "",
+    "declaracaoVeracidade": true,
+    "aceiteTermos": true,
+    "aceiteCiencia": true,
+    "aceiteEm": "2026-08-28T15:01:25.667Z",
+    "municipio": "Santa Fé do Sul",
+    "deslocamento": "Até 300 km",
+    "autorizaPublico": false,
+    "status": "pendente",
+    "publicado": false,
+    "historico": [
+      {
+        "evento": "cadastro",
+        "protocolo": "P-2026-000046",
+        "em": "2026-08-28T15:01:25.667Z",
+        "ip": "45.236.39.214"
+      }
+    ]
   }
 ]
