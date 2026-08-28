@@ -2690,5 +2690,111 @@
         "ip": "170.0.66.124"
       }
     ]
+  },
+  {
+    "id": "SD-000030",
+    "protocolo": "P-2026-000045",
+    "data": "2026-08-28T13:34:26.704Z",
+    "criadoEm": "2026-08-28T13:34:26.704Z",
+    "ip": "143.137.178.137",
+    "navegador": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36",
+    "nome": "Guilherme Cruz Ferreira Fedrigo",
+    "cidade": "Goiânia",
+    "uf": "GO",
+    "bairro": "Setor Sul",
+    "telefoneProfissional": "62984203281",
+    "cro": "CRO GO 13513",
+    "cpf": "007.770.291-38",
+    "cnpj": "",
+    "nascimento": "1990-12-13",
+    "sexo": "Masculino",
+    "cidadeAtuacao": "Goiânia",
+    "ufAtuacao": "GO",
+    "bairroAtuacao": "Setor Campinas",
+    "atendeOutrasCidades": "Sim",
+    "raioDeslocamento": "A combinar",
+    "telefone": "62981828155",
+    "email": "guilhermecruzf@msn.com",
+    "graduacao": [
+      "Odontologia"
+    ],
+    "anoGraduacao": "2014",
+    "universidade": "UFG",
+    "especializacoes": "HOF",
+    "titulacao": [
+      "Especialização"
+    ],
+    "situacaoCursoSedacao": "Cursando",
+    "cursoSedacaoNome": "Instituto Araçatubense de Sedação",
+    "cursoSedacaoAno": "2026",
+    "anexoFormacao": "",
+    "realizaSedacao": "Sim",
+    "modalidades": "Sedação inalatória com óxido nitroso, Sedação medicamentosa por via oral, Sedação inalatória — IN, Sedação medicamentosa por via IM, Sedação medicamentosa por via IV",
+    "tempoAtuacao": "Mais de 5 anos",
+    "tiposPacientes": [
+      "Crianças",
+      "Adultos",
+      "Idosos",
+      "Pessoas com deficiência (PCD)",
+      "Pacientes fóbicos (em geral)",
+      "ASA I",
+      "ASA II",
+      "ASA III"
+    ],
+    "atuaEm": [
+      "Profissional itinerante",
+      "Clínica própria",
+      "Clínica de terceiros",
+      "Atendimento domiciliar"
+    ],
+    "equipePropria": [
+      "Sim",
+      "Com parceiros / sócios",
+      "Técnico em enfermagem",
+      "ASB / TSB"
+    ],
+    "monitorMultiparametrico": "Sim",
+    "oxigenio": "Sim",
+    "capnografo": "Não",
+    "dea": "Sim",
+    "treinamentoEmergencias": [
+      "Sim",
+      "ACLS"
+    ],
+    "dataUltimoTreinamento": "2026-10-05",
+    "anexoEmergencias": "",
+    "interesses": [
+      "Prestar serviços de sedação",
+      "Participar de grupos de estudos",
+      "Participar de pesquisas",
+      "Desejo integrar o Nossa Vitrine da CONSEO e autorizo a divulgação dos dados por mim permitidos",
+      "Quero participar da Sala de Discussão de Casos"
+    ],
+    "autorizaDivulgar": [
+      "Nome profissional",
+      "Telefone / WhatsApp",
+      "Cidade",
+      "Bairro",
+      "Estado",
+      "Nº do CRO + Estado"
+    ],
+    "obs": "",
+    "declaracaoVeracidade": true,
+    "aceiteTermos": true,
+    "aceiteCiencia": true,
+    "aceiteEm": "2026-08-28T13:34:26.704Z",
+    "municipio": "Goiânia",
+    "deslocamento": "A combinar",
+    "autorizaPublico": true,
+    "status": "pendente",
+    "publicado": false,
+    "historico": [
+      {
+        "evento": "cadastro",
+        "protocolo": "P-2026-000045",
+        "em": "2026-08-28T13:34:26.704Z",
+        "ip": "143.137.178.137"
+      }
+    ]
   }
 ]
