@@ -2891,5 +2891,103 @@
         "ip": "45.236.39.214"
       }
     ]
+  },
+  {
+    "id": "SD-000032",
+    "protocolo": "P-2026-000047",
+    "data": "2026-08-29T13:40:24.694Z",
+    "criadoEm": "2026-08-29T13:40:24.694Z",
+    "ip": "177.79.95.219",
+    "navegador": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/30.0 Chrome/143.0.0.0 Mobile Safari/537.36",
+    "nome": "Eduardo Augusto Dal Médico Girotto",
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "bairro": "Tatuapé",
+    "telefoneProfissional": "11983834899",
+    "cro": "CRO SP 85824",
+    "cpf": "29462358826",
+    "cnpj": "52547517000107",
+    "nascimento": "1981-02-23",
+    "sexo": "Masculino",
+    "cidadeAtuacao": "São Paulo",
+    "ufAtuacao": "SP",
+    "bairroAtuacao": "Mooca, Belem, Tatuape, Casa Verde, Itaquera",
+    "atendeOutrasCidades": "Sim",
+    "raioDeslocamento": "A combinar",
+    "telefone": "11983834899",
+    "email": "edugirotto@uol.com.br",
+    "graduacao": [
+      "Odontologia"
+    ],
+    "anoGraduacao": "2004",
+    "universidade": "Universidade Cidade De São Paulo",
+    "especializacoes": "Ortodontia, Radiologia, Habilitação em sedação",
+    "titulacao": [
+      "Especialização"
+    ],
+    "situacaoCursoSedacao": "Concluído",
+    "cursoSedacaoNome": "Ciclo Saúde - Sedação Multimodal",
+    "cursoSedacaoAno": "2025",
+    "anexoFormacao": "anexos/2026-08-29-mtediif2cvrnhj-Certificado-Multimodal.pdf",
+    "realizaSedacao": "Sim",
+    "modalidades": "Sedação inalatória com óxido nitroso, Sedação medicamentosa por via oral, Sedação medicamentosa por via IM",
+    "tempoAtuacao": "De 6 meses a 1 ano",
+    "tiposPacientes": [
+      "Crianças",
+      "Adultos",
+      "Idosos",
+      "Pessoas com deficiência (PCD)",
+      "Pacientes fóbicos (em geral)",
+      "ASA I",
+      "ASA II"
+    ],
+    "atuaEm": [
+      "Clínica própria",
+      "Clínica de terceiros"
+    ],
+    "equipePropria": [
+      "Sim",
+      "Com parceiros / sócios"
+    ],
+    "monitorMultiparametrico": "Sim",
+    "oxigenio": "Sim",
+    "capnografo": "Não",
+    "dea": "Não",
+    "treinamentoEmergencias": [
+      "Sim"
+    ],
+    "dataUltimoTreinamento": "2025-03-08",
+    "anexoEmergencias": "",
+    "interesses": [
+      "Prestar serviços de sedação",
+      "Desejo integrar o Nossa Vitrine da CONSEO e autorizo a divulgação dos dados por mim permitidos"
+    ],
+    "autorizaDivulgar": [
+      "Nome profissional",
+      "Telefone / WhatsApp",
+      "Cidade",
+      "Bairro",
+      "Estado",
+      "Nº do CRO + Estado",
+      "Somente no Nossa Vitrine da CONSEO, em âmbito nacional"
+    ],
+    "obs": "",
+    "declaracaoVeracidade": true,
+    "aceiteTermos": true,
+    "aceiteCiencia": true,
+    "aceiteEm": "2026-08-29T13:40:24.694Z",
+    "municipio": "São Paulo",
+    "deslocamento": "A combinar",
+    "autorizaPublico": true,
+    "status": "pendente",
+    "publicado": false,
+    "historico": [
+      {
+        "evento": "cadastro",
+        "protocolo": "P-2026-000047",
+        "em": "2026-08-29T13:40:24.694Z",
+        "ip": "177.79.95.219"
+      }
+    ]
   }
 ]
