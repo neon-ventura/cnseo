@@ -3477,5 +3477,108 @@
         "ip": "191.178.173.223"
       }
     ]
+  },
+  {
+    "id": "SD-000038",
+    "protocolo": "P-2026-000059",
+    "data": "2026-09-04T16:25:29.948Z",
+    "criadoEm": "2026-09-04T16:25:29.948Z",
+    "ip": "179.148.40.217",
+    "navegador": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6.1 Mobile/15E148 Safari/604.1",
+    "nome": "Talita Leite Marques",
+    "cidade": "Passos",
+    "uf": "MG",
+    "bairro": "São Benedito",
+    "telefoneProfissional": "35988980065",
+    "cro": "CRO-MG 42153",
+    "cpf": "11293899607",
+    "cnpj": "48711882000120",
+    "nascimento": "1991-05-18",
+    "sexo": "Feminino",
+    "cidadeAtuacao": "Passos",
+    "ufAtuacao": "MG",
+    "bairroAtuacao": "São Benedito",
+    "atendeOutrasCidades": "Sim",
+    "raioDeslocamento": "A combinar",
+    "telefone": "35988980065",
+    "email": "talitalm@hotmail.com",
+    "graduacao": [
+      "Odontologia"
+    ],
+    "anoGraduacao": "2012",
+    "universidade": "Unifran",
+    "especializacoes": "Sedação odontológico/ implantodontista",
+    "titulacao": [
+      "Aperfeiçoamento",
+      "Atualização",
+      "Especialização"
+    ],
+    "situacaoCursoSedacao": "Concluído",
+    "cursoSedacaoNome": "Facsete",
+    "cursoSedacaoAno": "2021",
+    "anexoFormacao": "anexos/2026-09-04-mtn5t6nvcgtlo7-bf6d5140-b4f1-4c4e-aca8-0f94e55ecf3d.jpeg",
+    "realizaSedacao": "Sim",
+    "modalidades": "Sedação inalatória com óxido nitroso, Sedação medicamentosa por via oral, Sedação inalatória — IN, Sedação medicamentosa por via IM, Sedação medicamentosa por via IV",
+    "tempoAtuacao": "Mais de 5 anos",
+    "tiposPacientes": [
+      "Crianças",
+      "Adultos",
+      "Idosos",
+      "Pessoas com deficiência (PCD)",
+      "Pacientes fóbicos (em geral)",
+      "ASA I",
+      "ASA II",
+      "ASA III"
+    ],
+    "atuaEm": [
+      "Clínica própria",
+      "Clínica de terceiros"
+    ],
+    "equipePropria": [
+      "Sim",
+      "ASB / TSB"
+    ],
+    "monitorMultiparametrico": "Sim",
+    "oxigenio": "Sim",
+    "capnografo": "Não",
+    "dea": "Sim",
+    "treinamentoEmergencias": [
+      "Sim",
+      "BLS"
+    ],
+    "dataUltimoTreinamento": "2025-05-05",
+    "anexoEmergencias": "anexos/2026-09-04-mtn5ybdhoifmfh-93016d15-0807-49c4-b833-9d1bf1f3f56e.jpeg",
+    "interesses": [
+      "Prestar serviços de sedação",
+      "Participar de grupos de estudos",
+      "Desejo integrar o Nossa Vitrine da CONSEO e autorizo a divulgação dos dados por mim permitidos",
+      "Quero participar da Sala de Discussão de Casos"
+    ],
+    "autorizaDivulgar": [
+      "Nome profissional",
+      "Telefone / WhatsApp",
+      "Cidade",
+      "Bairro",
+      "Estado",
+      "Nº do CRO + Estado"
+    ],
+    "obs": "",
+    "declaracaoVeracidade": true,
+    "aceiteTermos": true,
+    "aceiteCiencia": true,
+    "aceiteEm": "2026-09-04T16:25:29.948Z",
+    "municipio": "Passos",
+    "deslocamento": "A combinar",
+    "autorizaPublico": true,
+    "status": "pendente",
+    "publicado": false,
+    "historico": [
+      {
+        "evento": "cadastro",
+        "protocolo": "P-2026-000059",
+        "em": "2026-09-04T16:25:29.948Z",
+        "ip": "179.148.40.217"
+      }
+    ]
   }
 ]
