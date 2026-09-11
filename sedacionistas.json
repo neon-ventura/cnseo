@@ -3771,5 +3771,99 @@
         "ip": "189.96.19.169"
       }
     ]
+  },
+  {
+    "id": "SD-000041",
+    "protocolo": "P-2026-000063",
+    "data": "2026-09-11T12:35:04.786Z",
+    "criadoEm": "2026-09-11T12:35:04.786Z",
+    "ip": "187.25.131.47",
+    "navegador": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+    "nome": "Cynthia Regina Dresch Pimenta",
+    "cidade": "Curitiba",
+    "uf": "PR",
+    "bairro": "Vila Izabel",
+    "telefoneProfissional": "41997298004",
+    "cro": "18620 PR",
+    "cpf": "04362363971",
+    "cnpj": "",
+    "nascimento": "1983-06-13",
+    "sexo": "Feminino",
+    "cidadeAtuacao": "Curitiba",
+    "ufAtuacao": "PR",
+    "bairroAtuacao": "Vila Izabel",
+    "atendeOutrasCidades": "Sim",
+    "raioDeslocamento": "Até 100 km",
+    "telefone": "41 999369926",
+    "email": "cynregina@gmail.com",
+    "graduacao": [
+      "Odontologia"
+    ],
+    "anoGraduacao": "2007",
+    "universidade": "Universidade Tuiuti do Paraná",
+    "especializacoes": "Cirurgia e Tarumatologia Buco Maxilo Faciais, Odontologia Hospitalar",
+    "titulacao": [
+      "Especialização"
+    ],
+    "situacaoCursoSedacao": "Concluído",
+    "cursoSedacaoNome": "Universidade Positivo/Habilitação em SEdação Consciente em òxido Nitrosos e Oxigênio",
+    "cursoSedacaoAno": "2021",
+    "anexoFormacao": "anexos/2026-09-11-mtwxphpm3s67t1-Certificado-Sedacao.pdf",
+    "realizaSedacao": "Sim",
+    "modalidades": "Sedação inalatória com óxido nitroso",
+    "tempoAtuacao": "Mais de 5 anos",
+    "tiposPacientes": [
+      "Crianças",
+      "Adultos",
+      "Idosos",
+      "Pessoas com deficiência (PCD)",
+      "Pacientes fóbicos (em geral)",
+      "ASA I"
+    ],
+    "atuaEm": [
+      "Profissional itinerante",
+      "Clínica própria",
+      "Clínica de terceiros"
+    ],
+    "equipePropria": [
+      "Não"
+    ],
+    "monitorMultiparametrico": "Sim",
+    "oxigenio": "Não",
+    "capnografo": "Não",
+    "dea": "Não",
+    "treinamentoEmergencias": [
+      "Não"
+    ],
+    "dataUltimoTreinamento": "",
+    "anexoEmergencias": "",
+    "interesses": [
+      "Prestar serviços de sedação"
+    ],
+    "autorizaDivulgar": [
+      "Nome profissional",
+      "Telefone / WhatsApp",
+      "Cidade",
+      "Estado",
+      "Nº do CRO + Estado"
+    ],
+    "obs": "",
+    "declaracaoVeracidade": true,
+    "aceiteTermos": true,
+    "aceiteCiencia": true,
+    "aceiteEm": "2026-09-11T12:35:04.786Z",
+    "municipio": "Curitiba",
+    "deslocamento": "Até 100 km",
+    "autorizaPublico": false,
+    "status": "pendente",
+    "publicado": false,
+    "historico": [
+      {
+        "evento": "cadastro",
+        "protocolo": "P-2026-000063",
+        "em": "2026-09-11T12:35:04.786Z",
+        "ip": "187.25.131.47"
+      }
+    ]
   }
 ]
