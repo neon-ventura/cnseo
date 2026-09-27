@@ -3865,5 +3865,106 @@
         "ip": "187.25.131.47"
       }
     ]
+  },
+  {
+    "id": "SD-000042",
+    "protocolo": "P-2026-000066",
+    "data": "2026-09-27T14:56:19.770Z",
+    "criadoEm": "2026-09-27T14:56:19.770Z",
+    "ip": "138.255.59.25",
+    "navegador": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/30.0 Chrome/143.0.0.0 Mobile Safari/537.36",
+    "nome": "Fernando Freitas",
+    "cidade": "Itaperuna",
+    "uf": "RJ",
+    "bairro": "Cidade Nova",
+    "telefoneProfissional": "21995003205",
+    "cro": "CRO RJ 25758",
+    "cpf": "694.327.757-04",
+    "cnpj": "",
+    "nascimento": "1961-12-28",
+    "sexo": "Masculino",
+    "cidadeAtuacao": "Itaperuna",
+    "ufAtuacao": "RJ",
+    "bairroAtuacao": "Cidade Nova",
+    "atendeOutrasCidades": "Sim",
+    "raioDeslocamento": "Todo o estado",
+    "telefone": "+5521995003205",
+    "email": "drsorrisofernandodentista@gmail.com",
+    "graduacao": [
+      "Odontologia"
+    ],
+    "anoGraduacao": "1999",
+    "universidade": "Unig",
+    "especializacoes": "Ortodontia dtm dor oro facial",
+    "titulacao": [
+      "Especialização"
+    ],
+    "situacaoCursoSedacao": "Concluído",
+    "cursoSedacaoNome": "Facoop",
+    "cursoSedacaoAno": "2023",
+    "anexoFormacao": "",
+    "realizaSedacao": "Sim",
+    "modalidades": "Sedação inalatória com óxido nitroso, Sedação medicamentosa por via oral, Sedação inalatória — IN, Sedação medicamentosa por via IM",
+    "tempoAtuacao": "De 2 a 5 anos",
+    "tiposPacientes": [
+      "Crianças",
+      "Adultos",
+      "Idosos",
+      "Pessoas com deficiência (PCD)",
+      "Pacientes fóbicos (em geral)",
+      "ASA I",
+      "ASA II"
+    ],
+    "atuaEm": [
+      "Profissional itinerante",
+      "Clínica própria",
+      "Clínica de terceiros",
+      "Atendimento domiciliar"
+    ],
+    "equipePropria": [
+      "Sim",
+      "Outro"
+    ],
+    "monitorMultiparametrico": "Sim",
+    "oxigenio": "Sim",
+    "capnografo": "Não",
+    "dea": "Não",
+    "treinamentoEmergencias": [
+      "Não"
+    ],
+    "dataUltimoTreinamento": "",
+    "anexoEmergencias": "",
+    "interesses": [
+      "Prestar serviços de sedação",
+      "Participar de grupos de estudos",
+      "Desejo integrar o Diretório Público (Vitrine) da CONSEO e autorizo a divulgação dos dados por mim permitidos",
+      "Quero participar da Sala de Discussão de Casos"
+    ],
+    "autorizaDivulgar": [
+      "Nome profissional",
+      "Telefone / WhatsApp",
+      "Cidade",
+      "Bairro",
+      "Estado",
+      "Nº do CRO + Estado"
+    ],
+    "obs": "",
+    "declaracaoVeracidade": true,
+    "aceiteTermos": true,
+    "aceiteCiencia": true,
+    "aceiteEm": "2026-09-27T14:56:19.770Z",
+    "municipio": "Itaperuna",
+    "deslocamento": "Todo o estado",
+    "autorizaPublico": true,
+    "status": "pendente",
+    "publicado": false,
+    "historico": [
+      {
+        "evento": "cadastro",
+        "protocolo": "P-2026-000066",
+        "em": "2026-09-27T14:56:19.770Z",
+        "ip": "138.255.59.25"
+      }
+    ]
   }
 ]
