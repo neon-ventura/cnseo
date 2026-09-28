@@ -4069,5 +4069,117 @@
         "ip": "187.183.37.76"
       }
     ]
+  },
+  {
+    "id": "SD-000044",
+    "protocolo": "P-2026-000068",
+    "data": "2026-09-28T11:16:44.768Z",
+    "criadoEm": "2026-09-28T11:16:44.768Z",
+    "ip": "152.244.213.215",
+    "navegador": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0",
+    "nome": "Carlos Roberto Coelho",
+    "cidade": "Belo Horizonte",
+    "uf": "MG",
+    "bairro": "Sion",
+    "telefoneProfissional": "35999530343",
+    "cro": "CROMG 5514",
+    "cpf": "237.342.486-04",
+    "cnpj": "38311777/0001-40",
+    "nascimento": "1952-11-04",
+    "sexo": "Masculino",
+    "cidadeAtuacao": "Belo Horizonte",
+    "ufAtuacao": "MG",
+    "bairroAtuacao": "Toda a cidade e no entorno",
+    "atendeOutrasCidades": "Sim",
+    "raioDeslocamento": "A combinar",
+    "telefone": "+5535999530343",
+    "email": "carloscoelho100@gmail.com",
+    "graduacao": [
+      "Odontologia"
+    ],
+    "anoGraduacao": "1976",
+    "universidade": "UNIFAL - ALFENAS MG",
+    "especializacoes": "Periodontia",
+    "titulacao": [
+      "Aperfeiçoamento",
+      "Atualização",
+      "Especialização",
+      "Outro"
+    ],
+    "situacaoCursoSedacao": "Concluído",
+    "cursoSedacaoNome": "Ciclo Saúde Educacional",
+    "cursoSedacaoAno": "2024",
+    "anexoFormacao": "",
+    "realizaSedacao": "Sim",
+    "modalidades": "Sedação inalatória com óxido nitroso, Sedação medicamentosa por via oral, Sedação inalatória — IN, Sedação medicamentosa por via IM, Sedação medicamentosa por via IV",
+    "tempoAtuacao": "De 2 a 5 anos",
+    "tiposPacientes": [
+      "Crianças",
+      "Adultos",
+      "Idosos",
+      "Pessoas com deficiência (PCD)",
+      "Pacientes fóbicos (em geral)",
+      "ASA I",
+      "ASA II",
+      "Outros"
+    ],
+    "atuaEm": [
+      "Profissional itinerante",
+      "Clínica de terceiros",
+      "Centro cirúrgico",
+      "Atendimento domiciliar"
+    ],
+    "equipePropria": [
+      "Com parceiros / sócios",
+      "Enfermeiro",
+      "Técnico em enfermagem",
+      "ASB / TSB",
+      "Outro"
+    ],
+    "monitorMultiparametrico": "Sim",
+    "oxigenio": "Sim",
+    "capnografo": "Não",
+    "dea": "Não",
+    "treinamentoEmergencias": [
+      "Sim",
+      "BLS",
+      "ACLS",
+      "Outros"
+    ],
+    "dataUltimoTreinamento": "2026-09-11",
+    "anexoEmergencias": "",
+    "interesses": [
+      "Prestar serviços de sedação",
+      "Participar de grupos de estudos",
+      "Participar de pesquisas",
+      "Desejo integrar o Diretório Público (Vitrine) da CONSEO e autorizo a divulgação dos dados por mim permitidos",
+      "Quero participar da Sala de Discussão de Casos"
+    ],
+    "autorizaDivulgar": [
+      "Nome profissional",
+      "Telefone / WhatsApp",
+      "Cidade",
+      "Bairro",
+      "Estado",
+      "Nº do CRO + Estado"
+    ],
+    "obs": "Gostei do site, mas não estou conseguindo alterar meus dados. Como faço?",
+    "declaracaoVeracidade": true,
+    "aceiteTermos": true,
+    "aceiteCiencia": true,
+    "aceiteEm": "2026-09-28T11:16:44.768Z",
+    "municipio": "Belo Horizonte",
+    "deslocamento": "A combinar",
+    "autorizaPublico": true,
+    "status": "pendente",
+    "publicado": false,
+    "historico": [
+      {
+        "evento": "cadastro",
+        "protocolo": "P-2026-000068",
+        "em": "2026-09-28T11:16:44.768Z",
+        "ip": "152.244.213.215"
+      }
+    ]
   }
 ]
