@@ -4201,5 +4201,104 @@
     ],
     "atualizadoEm": "2026-09-28T13:27:06.518Z",
     "ultimoProtocolo": "P-2026-000070"
+  },
+  {
+    "id": "SD-000045",
+    "protocolo": "P-2026-000072",
+    "data": "2026-09-28T16:37:42.728Z",
+    "criadoEm": "2026-09-28T16:37:42.728Z",
+    "ip": "186.248.77.86",
+    "navegador": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6.1 Mobile/15E148 Safari/604.1",
+    "nome": "Sabrina Rocha Ribeiro",
+    "cidade": "São Lourenço",
+    "uf": "MG",
+    "bairro": "Solar dos Lagos",
+    "telefoneProfissional": "31997899601",
+    "cro": "CRO—MG 52639",
+    "cpf": "07065741680",
+    "cnpj": "",
+    "nascimento": "1983-08-16",
+    "sexo": "Feminino",
+    "cidadeAtuacao": "São Lourenço",
+    "ufAtuacao": "MG",
+    "bairroAtuacao": "Todos",
+    "atendeOutrasCidades": "Sim",
+    "raioDeslocamento": "A combinar",
+    "telefone": "+5531997899601",
+    "email": "sabrinarribeiro20@outlook.com",
+    "graduacao": [
+      "Odontologia"
+    ],
+    "anoGraduacao": "2004",
+    "universidade": "UNINCOR",
+    "especializacoes": "",
+    "titulacao": [
+      "Mestrado"
+    ],
+    "situacaoCursoSedacao": "Concluído",
+    "cursoSedacaoNome": "",
+    "cursoSedacaoAno": "",
+    "anexoFormacao": "",
+    "realizaSedacao": "Sim",
+    "modalidades": "Sedação inalatória com óxido nitroso, Sedação medicamentosa por via oral, Sedação inalatória — IN, Sedação medicamentosa por via IM, Sedação medicamentosa por via IV",
+    "tempoAtuacao": "Mais de 5 anos",
+    "tiposPacientes": [
+      "Crianças",
+      "Adultos",
+      "Idosos",
+      "Pessoas com deficiência (PCD)",
+      "Pacientes fóbicos (em geral)",
+      "ASA I",
+      "ASA II"
+    ],
+    "atuaEm": [
+      "Profissional itinerante",
+      "Clínica própria",
+      "Clínica de terceiros"
+    ],
+    "equipePropria": [
+      "Sim"
+    ],
+    "monitorMultiparametrico": "Sim",
+    "oxigenio": "Sim",
+    "capnografo": "Sim",
+    "dea": "Sim",
+    "treinamentoEmergencias": [
+      "Sim",
+      "BLS",
+      "ACLS"
+    ],
+    "dataUltimoTreinamento": "",
+    "anexoEmergencias": "",
+    "interesses": [
+      "Prestar serviços de sedação",
+      "Participar de grupos de estudos",
+      "Participar de pesquisas",
+      "Apenas integrar a comunidade CONSEO",
+      "Desejo integrar o Diretório Público (Vitrine) da CONSEO e autorizo a divulgação dos dados por mim permitidos",
+      "Quero participar da Sala de Discussão de Casos"
+    ],
+    "autorizaDivulgar": [
+      "Nome profissional",
+      "Telefone / WhatsApp"
+    ],
+    "obs": "",
+    "declaracaoVeracidade": true,
+    "aceiteTermos": true,
+    "aceiteCiencia": true,
+    "aceiteEm": "2026-09-28T16:37:42.728Z",
+    "municipio": "São Lourenço",
+    "deslocamento": "A combinar",
+    "autorizaPublico": true,
+    "status": "pendente",
+    "publicado": false,
+    "historico": [
+      {
+        "evento": "cadastro",
+        "protocolo": "P-2026-000072",
+        "em": "2026-09-28T16:37:42.728Z",
+        "ip": "186.248.77.86"
+      }
+    ]
   }
 ]
