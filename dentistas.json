@@ -67,5 +67,32 @@
       }
     ],
     "status": "novo"
+  },
+  {
+    "id": "CD-000003",
+    "protocolo": "P-2026-000073",
+    "data": "2026-09-30T12:32:19.845Z",
+    "criadoEm": "2026-09-30T12:32:19.845Z",
+    "ip": "179.84.159.32",
+    "navegador": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/154.0.8037.55 Mobile/15E148 Safari/604.1",
+    "nome": "Pedro Augusto de Melo Lino Padilha",
+    "cro": "CRO-MG 77557",
+    "uf": "MG",
+    "cidade": "Bom Despacho",
+    "telefone": "+5537998382351",
+    "email": "pedro.padilha1725@gmail.com",
+    "especialidades": [],
+    "obs": "Especializando em cirurgia e traumatologia bucomaxilofacial",
+    "aceiteTermoDentista": true,
+    "aceiteEm": "2026-09-30T12:32:19.845Z",
+    "historico": [
+      {
+        "evento": "cadastro",
+        "protocolo": "P-2026-000073",
+        "em": "2026-09-30T12:32:19.845Z",
+        "ip": "179.84.159.32"
+      }
+    ],
+    "status": "novo"
   }
 ]
