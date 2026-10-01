@@ -4202,12 +4202,17 @@
         "evento": "codigo de acesso gerado",
         "em": "2026-09-29T11:23:34.360Z",
         "ip": "131.0.164.122"
+      },
+      {
+        "evento": "codigo de acesso gerado",
+        "em": "2026-10-01T23:59:10.993Z",
+        "ip": "177.40.200.59"
       }
     ],
     "atualizadoEm": "2026-09-28T13:27:06.518Z",
     "ultimoProtocolo": "P-2026-000070",
-    "codigoAcesso": "DCWA-A5EN",
-    "codigoExpira": "2026-10-06T11:23:34.235Z"
+    "codigoAcesso": "VJ3M-SFWD",
+    "codigoExpira": "2026-10-08T23:59:10.851Z"
   },
   {
     "id": "SD-000045",
