@@ -4212,12 +4212,17 @@
         "evento": "codigo de acesso gerado",
         "em": "2026-10-01T23:59:27.476Z",
         "ip": "177.40.200.59"
+      },
+      {
+        "evento": "codigo de acesso gerado",
+        "em": "2026-10-02T00:01:20.354Z",
+        "ip": "177.40.200.59"
       }
     ],
     "atualizadoEm": "2026-09-28T13:27:06.518Z",
     "ultimoProtocolo": "P-2026-000070",
-    "codigoAcesso": "Z4Q6-FUQB",
-    "codigoExpira": "2026-10-08T23:59:27.342Z"
+    "codigoAcesso": "V568-H5MZ",
+    "codigoExpira": "2026-10-09T00:01:20.240Z"
   },
   {
     "id": "SD-000045",
